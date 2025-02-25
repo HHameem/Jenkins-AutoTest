@@ -2,8 +2,4 @@
  Simple repo for Jenkins pipeline testing
 
 
-Update #1: Triggering the Jenkins pipeline 
-
-Update #2: Jenkins pipeline test 
-
-Update 3: Final test
+Update #1: Triggering
